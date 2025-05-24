@@ -72,7 +72,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information. (You might want to add a LICENSE file to your repo if you haven't already\!)
+Distributed under the MIT License. See `LICENSE` for more information.
 
 
 -----
